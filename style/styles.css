@@ -29,6 +29,17 @@ html{
     font-size: 14px;
     color: white;
 }
+.social{
+    background-color: #135FD2;
+    width: 300px;
+    height: 70px;
+    border-radius: 15px;
+    justify-content: center;
+    Align-items: center;
+    display: flex;
+    margin-left: 900px;
+
+}
 .line{
     height: 10px;
     width: 100%;
@@ -55,6 +66,6 @@ html{
     background-color: white;
     border-radius: 15px;
     float: left;
-    margin-left: 100px;
+    margin-left: 200px;
 
 }
